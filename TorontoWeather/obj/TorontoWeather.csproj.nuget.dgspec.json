@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\THIRD SEMESTER\\.NET\\Assignment3\\Toronto\\TorontoWeatherApp\\TorontoWeather\\TorontoWeather\\TorontoWeather.csproj": {}
+  },
+  "projects": {
+    "D:\\THIRD SEMESTER\\.NET\\Assignment3\\Toronto\\TorontoWeatherApp\\TorontoWeather\\TorontoWeather\\TorontoWeather.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\THIRD SEMESTER\\.NET\\Assignment3\\Toronto\\TorontoWeatherApp\\TorontoWeather\\TorontoWeather\\TorontoWeather.csproj",
+        "projectName": "TorontoWeatherA3649",
+        "projectPath": "D:\\THIRD SEMESTER\\.NET\\Assignment3\\Toronto\\TorontoWeatherApp\\TorontoWeather\\TorontoWeather\\TorontoWeather.csproj",
+        "packagesPath": "C:\\Users\\c0913649\\.nuget\\packages\\",
+        "outputPath": "D:\\THIRD SEMESTER\\.NET\\Assignment3\\Toronto\\TorontoWeatherApp\\TorontoWeather\\TorontoWeather\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c0913649\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

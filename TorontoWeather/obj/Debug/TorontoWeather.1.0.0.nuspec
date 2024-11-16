@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TorontoWeather</id>
+    <version>1.0.0</version>
+    <title>Weather App</title>
+    <authors>Ranish Shrestha</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>Readme.md</readme>
+    <description>This is a package for Toronto Weather App.</description>
+    <releaseNotes>This version only has Toronto weather.</releaseNotes>
+    <copyright>Ranish Shrestha 2024</copyright>
+    <tags>weather,toronto,ranish,shrestha</tags>
+    <repository type="git" url="github.com/tempfornow" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="NETStandard.Library" version="2.0.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Lambton_College\My_Folder\sem3\Web_app_using_C#\TorontoWeather\TorontoWeather\bin\Debug\net8.0\TorontoWeather.dll" target="lib\net8.0\TorontoWeather.dll" />
+    <file src="F:\Lambton_College\My_Folder\sem3\Web_app_using_C#\TorontoWeather\TorontoWeather\Readme.md" target="\Readme.md" />
+  </files>
+</package>

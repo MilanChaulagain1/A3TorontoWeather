@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47EA8D0-D50C-431F-962C-3BB9939856E4}|TorontoWeather\\TorontoWeather.csproj|f:\\lambton_college\\my_folder\\sem3\\web_app_using_c#\\torontoweather\\torontoweather\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47EA8D0-D50C-431F-962C-3BB9939856E4}|TorontoWeather\\TorontoWeather.csproj|solutionrelative:torontoweather\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47EA8D0-D50C-431F-962C-3BB9939856E4}|TorontoWeather\\TorontoWeather.csproj|f:\\lambton_college\\my_folder\\sem3\\web_app_using_c#\\torontoweather\\torontoweather\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B47EA8D0-D50C-431F-962C-3BB9939856E4}|TorontoWeather\\TorontoWeather.csproj|solutionrelative:torontoweather\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47EA8D0-D50C-431F-962C-3BB9939856E4}|TorontoWeather\\TorontoWeather.csproj|f:\\lambton_college\\my_folder\\sem3\\web_app_using_c#\\torontoweather\\torontoweather\\torontoweather.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B47EA8D0-D50C-431F-962C-3BB9939856E4}|TorontoWeather\\TorontoWeather.csproj|solutionrelative:torontoweather\\torontoweather.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\TorontoWeather\\Readme.md",
+              "RelativeDocumentMoniker": "TorontoWeather\\Readme.md",
+              "ToolTip": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\TorontoWeather\\Readme.md",
+              "RelativeToolTip": "TorontoWeather\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-05T19:46:46.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TorontoWeather",
+              "DocumentMoniker": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\TorontoWeather\\TorontoWeather.csproj",
+              "RelativeDocumentMoniker": "TorontoWeather\\TorontoWeather.csproj",
+              "ToolTip": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\TorontoWeather\\TorontoWeather.csproj",
+              "RelativeToolTip": "TorontoWeather\\TorontoWeather.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T19:40:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\TorontoWeather\\WeatherService.cs",
+              "RelativeDocumentMoniker": "TorontoWeather\\WeatherService.cs",
+              "ToolTip": "F:\\Lambton_College\\My_Folder\\sem3\\Web_app_using_C#\\TorontoWeather\\TorontoWeather\\WeatherService.cs",
+              "RelativeToolTip": "TorontoWeather\\WeatherService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:32:51.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
